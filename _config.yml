@@ -3,7 +3,7 @@ title: eHappy
 email: clarkwyca@gmail.com
 description: "eHappy"
 baseurl: "ehappy" # the subpath of your site, e.g. /blog/
-url: "http://www.ehappy.ca" # the base hostname & protocol for your site
+url: "http://clarkwy.github.io/ehappy" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  clarkwyca
 
